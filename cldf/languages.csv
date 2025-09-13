@@ -1,0 +1,17 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+brah1256,Brahui,,29.04,66.56,brah1256,,1,language,Dravidian,languages
+koda1255,Kodava,,12.2443,75.9161,koda1255,,6,language,Dravidian,languages
+kota1263,Kota (India),,11.4978,76.9387,kota1263,,8,language,Dravidian,languages
+kuii1252,Kui (India),,19.2043,83.5859,kuii1252,,9,language,Dravidian,languages
+kuru1301,Kurukh,,24.46442,86.46568,kuru1301,,10,language,Dravidian,languages
+mala1464,Malayalam,,9.59208,76.7651,mala1464,,11,language,Dravidian,languages
+nucl1305,Kannada,,13.5878,76.1198,nucl1305,,5,language,Dravidian,languages
+pott1240,Pottangi Ollar Gadaba,,18.5968,82.7586,pott1240,,14,language,Dravidian,languages
+sava1244,Savara,,18.7302,84.1414,sava1244,,15,language,Bookkeeping,languages
+sout1549,Southeastern Kolami,,19.6908,78.5936,sout1549,,13,language,Dravidian,languages
+tami1289,Tamil,,10.520219,78.825989,tami1289,,16,language,Dravidian,languages
+telu1262,Telugu,,16.4529,78.7024,telu1262,,17,language,Dravidian,languages
+toda1252,Toda,,11.4184,77.0168,toda1252,,18,language,Dravidian,languages
+tulu1258,Tulu,,12.8114,75.2651,tulu1258,,19,language,Dravidian,languages
+book1242,Bookkeeping,,,,book1242,,15,family,,families
+drav1251,Dravidian,,,,drav1251,,1 2 3 4 5 6 7 8 9 10 11 12 13 14 16 17 18 19,family,,families
